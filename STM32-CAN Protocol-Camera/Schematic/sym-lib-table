@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ETH OPAMP DCMI FSMC CAN ENCODER CS1000-rescue")(type "KiCad")(uri "${KIPRJMOD}/ETH OPAMP DCMI FSMC CAN ENCODER CS1000-rescue.kicad_sym")(options "")(descr ""))
+)
